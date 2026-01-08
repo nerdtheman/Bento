@@ -143,17 +143,17 @@ const CONFIG = {
 					link: 'https://music.youtube.com/explore',
 				},
 				{
-					name: 'Jazz',
-					link: 'https://music.youtube.com/playlist?list=PLS2fhItJvVYi4yPd60fhJ4NdgP11_YvpI',
+					name: 'Southeast Examiner',
+					link: 'https://www.southeastexaminer.com/',
 				},
 				{
-					name: 'Ska',
-					link: 'https://music.youtube.com/playlist?list=PLto4rPVLph7fDzJ7gQ5Kc5RoYvNGg_o5M',
+					name: 'Noticias',
+					link: 'https://www.bbc.com/mundo',
 				},
 				{
-					name: 'Hip Hop',
-					link: 'https://music.youtube.com/playlist?list=PLkqBDWEoHcfiBLWrOR_XoXf8TxI58BmsB',
-				},
+					name: 'LastFM',
+					link: 'https://www.last.fm/home'
+				}
 			],
 		},
 		{
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'PDX Canvas',
+					link: 'https://canvas.pdx.edu/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Google Drive',
+					link: 'https://drive.google.com/drive/my-drive',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Onedrive',
+					link: 'https://onedrive.live.com/login',
 				},
 				{
 					name: 'Slack',
-					link: 'https://www.slack.com',
+					link: 'https://slack.com/signin#/signin',
 				},
 			],
 		},
