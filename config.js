@@ -143,7 +143,7 @@ const CONFIG = {
 					link: 'https://music.youtube.com/explore',
 				},
 				{
-					name: 'Southeast Examiner',
+					name: 'SE Examiner',
 					link: 'https://www.southeastexaminer.com/',
 				},
 				{
