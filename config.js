@@ -139,12 +139,12 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Explore',
-					link: 'https://music.youtube.com/explore',
-				},
-				{
 					name: 'SE Examiner',
 					link: 'https://www.southeastexaminer.com/',
+				},
+								{
+					name: 'MoreFuzz',
+					link: 'https://morefuzz.net/search/',
 				},
 				{
 					name: 'Noticias',
