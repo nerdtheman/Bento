@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Qobuz',
+			icon: 'headphones',
+			link: 'https://play.qobuz.com/',
 		},
 	],
 
@@ -93,7 +93,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Music',
-			icon: 'headphones',
+			icon: 'youtube',
 			link: 'https://open.spotify.com',
 		},
 		{
@@ -142,13 +142,14 @@ const CONFIG = {
 					name: 'SE Examiner',
 					link: 'https://www.southeastexaminer.com/',
 				},
-								{
-					name: 'MoreFuzz',
-					link: 'https://morefuzz.net/search/',
-				},
+
 				{
 					name: 'Noticias',
 					link: 'https://www.bbc.com/mundo',
+				},
+				{
+					name: 'MoreFuzz',
+					link: 'https://morefuzz.net/search/',
 				},
 				{
 					name: 'LastFM',
